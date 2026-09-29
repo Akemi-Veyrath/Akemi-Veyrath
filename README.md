@@ -160,5 +160,3 @@ Virtual lab designed to simulate a small corporate infrastructure for study and 
 path = Path("/mnt/data/README_Akemi_Veyrath_Portfolio.md")
 path.write_text(content, encoding="utf-8")
 print(path)
-
-Add profile README;
