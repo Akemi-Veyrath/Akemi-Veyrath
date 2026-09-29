@@ -1,6 +1,3 @@
-from pathlib import Path
-
-content = """# Akemi_Veyrath
 
 **IT Support | Windows | Linux | Networking | Infrastructure**
 
